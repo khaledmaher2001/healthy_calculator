@@ -1,4 +1,4 @@
-# gym
+# Healthy Calculator
 
 A new Flutter application.
 
